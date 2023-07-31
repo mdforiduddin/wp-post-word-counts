@@ -47,7 +47,7 @@ final class WP_Post_Word_Counts {
     /**
      * Initiatizes a singleton instance
      *
-     * @return /WP_Academy
+     * @return /WP_Post_Word_Counts
      */
     public static function init() {
 
